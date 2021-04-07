@@ -1,0 +1,8 @@
+.active {
+ background-color: #E6F7FF;
+ border-radius: 2px;
+}
+
+.ant-list-item-action {
+ align-self: flex-start;
+}
